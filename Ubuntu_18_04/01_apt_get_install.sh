@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 sudo apt-get update
 
 # Install Chromium
-sudo apt-get install -Y chromium-browser
+sudo apt-get install -y chromium-browser
 
 # ZSH
 sudo apt-get install -y zsh
@@ -20,3 +20,6 @@ cd fonts && ./install.sh && cd .. && rm -rf fonts
 rm -fr ~/.oh-my-zsh/
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 chsh -s /bin/zsh
+
+# Install VSCode
+sudo apt-get install code
