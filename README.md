@@ -7,3 +7,9 @@ This Repository is for providing ready-made commands / scripts to automate the s
 	* Chromium Browser
 	* zsh (Includes Powerline Fonts)
 	* Oh-my-zsh
+
+* Windows 10
+	* Docker Desktop
+	* Git
+	* VSCode
+	* MYSQL Workbench
