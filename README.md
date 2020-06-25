@@ -1,5 +1,5 @@
 # setup-tools
-This Repository is for providing ready-made commands / scripts to automate the setup process of a development environment. Each setup is separated by OS/Distro.
+Ready-made commands/executables for automatic Development Environment Setup. Each setup is separated by OS/Distro.
 
 ## Distros Currently Supported and tools provided
 * Ubuntu Bionic Beaver (18.04 LTS)
@@ -8,8 +8,8 @@ This Repository is for providing ready-made commands / scripts to automate the s
 	* zsh (Includes Powerline Fonts)
 	* Oh-my-zsh
 
-* Windows 10
-	* Docker Desktop
+* Windows 10 Home & Windows 10 Pro
+	* Docker Desktop / Docker Toolbox
 	* Git
 	* VSCode
 	* MYSQL Workbench
